@@ -24,5 +24,5 @@ more than 3 words, only the last 3 are considered for the prediction.
 
 ## Additional resources
 
--   The R for data preprocessing and modeling is available at
--   A short deck about the app can be found at
+-   The R for data preprocessing and modeling is available at [GitHub]("https://github.com/siavrluk/Coursera-Capstone")
+-   A short deck about the app can be found at [here]("https://rpubs.com/siavrluk/CapstonePresentation")
